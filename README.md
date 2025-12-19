@@ -64,3 +64,9 @@ ai-trivia-game/
 6. Final score displayed at the end of the game.
 
 ---
+
+## ▶️ Run Locally
+
+pip install -r requirements.txt
+streamlit run app.py
+
